@@ -12,9 +12,7 @@
 
 <div align="center">
  
-  📖 Atualmente estou estudando **Front end** 
-  
- 💻 Aos poucos estou aprendendo **Back end** 
+  📖 Atualmente estou estudando **Front end**
  
  ⚡ Fun fact **Manipulo o mercado cripto com meu joystick🕹️**
  
