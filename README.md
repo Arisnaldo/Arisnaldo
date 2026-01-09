@@ -12,7 +12,6 @@
 
 <div align="center">
  
-  📖 Atualmente estou estudando **Front end**
  
  ⚡ Fun fact **Manipulo o mercado cripto com meu joystick🕹️**
  
