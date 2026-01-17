@@ -36,6 +36,7 @@
 <hr />
 
 <h2 align="center">🖥️ Languages & Tools 🖥️</h2>
+
 <br />
 
 <div align="center">
