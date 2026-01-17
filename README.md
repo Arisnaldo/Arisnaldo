@@ -55,7 +55,6 @@
 </div>
 
 <hr/>
-<br />
 <hr/>
 
 <div align="center">
