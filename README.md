@@ -55,16 +55,9 @@
 </div>
 
 <hr/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arisnaldo/Arisnaldo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arisnaldo/Arisnaldo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Arisnaldo/Arisnaldo/output/pacman-contribution-graph.svg">
-</picture>
-
 <br />
 <hr/>
 
 <div align="center">
-  <p>&#x20BF; bc1qaypzhpa7jvgeyd0hgcmwcmt250excm4am7untv &#x20BF;</p>
+  <p>&#x20BF; 1DQRJDK78g2z2qgSkxBF5fqfWvzjNinrPS &#x20BF;</p>
 </div>
