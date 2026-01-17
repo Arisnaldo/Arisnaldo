@@ -1,9 +1,8 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"
-    ><img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Ol%C3%A1+%F0%9F%91%8B;Eu+sou+o+Arisnaldo!"
-      alt="Typing SVG"
-  /></a>
+    >
+       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&width=600&height=70&lines=Hello+%F0%9F%91%8B;I'm+Arisnaldo;Computer+Science+Student;Future+Software+Engineer" />
+      </a>
 </h1>
 
 <h3 align="center">Um desenvolvedor Front end!</h3>
