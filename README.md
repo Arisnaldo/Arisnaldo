@@ -55,7 +55,6 @@
 </div>
 
 <hr/>
-<hr/>
 
 <div align="center">
   <p>&#x20BF; 1DQRJDK78g2z2qgSkxBF5fqfWvzjNinrPS &#x20BF;</p>
